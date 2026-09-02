@@ -13,7 +13,6 @@ DIRECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/apple_cdn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/domestic.json",
-    "https://raw.githubusercontent.com/jackszb/mini-sukka/main/direct_custom_rules.json",
 ]
 
 PROXY_URLS = [
@@ -32,7 +31,6 @@ REJECT_URLS = [
 IP_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/china_ip.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/domestic.json",
-    "https://raw.githubusercontent.com/jackszb/mini-sukka/main/ip_custom_rules.json",
 ]
 
 # 允许输出的字段(源数据里只会出现 ip_cidr,不存在单独的 ip 字段)
