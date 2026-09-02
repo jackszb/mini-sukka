@@ -10,7 +10,13 @@
         "corp",
         "localdomain",
         "intranet",
-        "private"
+        "private",
+        "localhost",
+        "home.arpa",
+        "in-addr.arpa",
+        "ip6.arpa",
+        "router.asus.com",
+        "asusrouter.com"
       ]
     }
   ]
