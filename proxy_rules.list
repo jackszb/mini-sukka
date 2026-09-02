@@ -832,7 +832,6 @@ DOMAIN,cdn.nerdschalk.com
 DOMAIN,cdn.networklessons.com
 DOMAIN,cdn.neverbounce.com
 DOMAIN,cdn.nfcube.com
-DOMAIN,cdn.nodeimage.com
 DOMAIN,cdn.nolt.io
 DOMAIN,cdn.northropgrumman.com
 DOMAIN,cdn.now.gg
@@ -953,6 +952,7 @@ DOMAIN,cdn.super.com
 DOMAIN,cdn.svgator.com
 DOMAIN,cdn.svgporn.com
 DOMAIN,cdn.syftdata.com
+DOMAIN,cdn.system1.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.tatlerasia.com
 DOMAIN,cdn.techcommunity.microsoft.com
@@ -2072,6 +2072,7 @@ DOMAIN,lastfm.freetls.fastly.net
 DOMAIN,launcher-files.modrinth.com
 DOMAIN,launcher.spot.im
 DOMAIN,launchercontent.mojang.com
+DOMAIN,layers.mapq.st
 DOMAIN,lc.nssurge.com
 DOMAIN,learn-attachment.microsoft.com
 DOMAIN,learn.optimizely.com
@@ -3353,6 +3354,7 @@ DOMAIN,vanilla-extract.style
 DOMAIN,variations.brave.com
 DOMAIN,vbmspic.video.friday.tw
 DOMAIN,vcdn.anysex.com
+DOMAIN,vector.hereapi.com
 DOMAIN,vectorified.com
 DOMAIN,versionbadg.es
 DOMAIN,vetted.ai
@@ -5033,6 +5035,7 @@ DOMAIN-SUFFIX,motherlessmedia.com
 DOMAIN-SUFFIX,moviefap.com
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mqcdn.com
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -5128,6 +5131,7 @@ DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,no
 DOMAIN-SUFFIX,nodecdn.net
+DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,noip.com
