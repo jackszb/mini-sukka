@@ -13,6 +13,7 @@ DIRECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/apple_cdn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/domestic.json",
+    "https://raw.githubusercontent.com/jackszb/rules-build/main/rules-src/wechat.json",
 ]
 
 PROXY_URLS = [
